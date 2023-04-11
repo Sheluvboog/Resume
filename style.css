@@ -1,0 +1,34 @@
+body{
+    background-color: #46474a;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    background-color: #fff;
+    width: 980px;
+    display: flex;
+    gap: 50px;
+    padding: 50px;
+}
+.contacts{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-left: 20px;
+}
+a{
+    text-decoration: none;
+    color: grey;
+}
+.tech_skills{
+    color: grey;
+}
+.soft_skills{
+    color: grey;
+}
+.langueges{
+    color: grey;
+}
+.skill{
+    
+}
